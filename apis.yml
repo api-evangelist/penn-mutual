@@ -1,0 +1,76 @@
+aid: penn-mutual
+name: Penn Mutual
+description: >-
+  The Penn Mutual Life Insurance Company is a mutual life insurer founded in
+  1847 and headquartered in Horsham, Pennsylvania, making it one of the oldest
+  mutual life insurance companies in the United States. Owned by its
+  policyholders, Penn Mutual offers life insurance and annuity products
+  distributed primarily through career and independent financial professionals,
+  and operates through a family of companies including Vantis Life Insurance
+  Company, Hornor Townsend & Kent (HTK) broker-dealer, and the Penn Insurance
+  and Annuity Company (PIA). Penn Mutual divested its long-held wealth
+  management subsidiary, Janney Montgomery Scott, to KKR in 2024.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Insurance
+  - Life Insurance
+  - Annuities
+  - Mutual Insurance
+  - Financial Services
+  - Broker-Dealer
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/penn-mutual/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.pennmutual.com
+  - type: About
+    url: https://www.pennmutual.com/about-us
+  - type: Contact
+    url: https://www.pennmutual.com/contact-us
+  - type: FinancialProfessionals
+    url: https://www.pennmutual.com/financial-professionals
+  - type: Careers
+    url: https://www.pennmutual.com/careers
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/the-penn-mutual-life-insurance-company
+  - type: GitHub
+    url: https://github.com/PennMutual
+  - type: Subsidiary
+    name: Vantis Life Insurance Company
+    url: https://www.vantislife.com
+    description: >-
+      Vantis Life Insurance Company, acquired by Penn Mutual in 2016, focuses on
+      simplified and direct-to-consumer life insurance products distributed
+      through banks, credit unions, and financial institutions.
+  - type: Subsidiary
+    name: Hornor, Townsend & Kent, LLC (HTK)
+    url: https://www.htk.com
+    description: >-
+      Hornor, Townsend & Kent (HTK) is Penn Mutual's wholly-owned, full-service
+      broker-dealer and registered investment adviser, supporting financial
+      professionals across the country with securities, advisory, and
+      investment services.
+  - type: Subsidiary
+    name: The Penn Insurance and Annuity Company (PIA)
+    url: https://www.pennmutual.com
+    description: >-
+      The Penn Insurance and Annuity Company is a wholly-owned subsidiary of
+      Penn Mutual that issues life insurance and annuity products primarily
+      through institutional and independent distribution channels.
+  - type: Divestiture
+    name: Janney Montgomery Scott
+    url: https://www.janney.com
+    description: >-
+      Janney Montgomery Scott, a full-service wealth management and capital
+      markets firm, was a wholly-owned subsidiary of Penn Mutual for more than
+      40 years until its 2024 sale to funds managed by private equity firm KKR
+      & Co. It is included here for historical continuity only and is no longer
+      part of the Penn Mutual family of companies.
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
