@@ -26,6 +26,10 @@ modified: '2026-05-23'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/penn-mutual-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/penn-mutual-domain-security.yml
   - type: Website
     url: https://www.pennmutual.com
   - type: About
